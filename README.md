@@ -1,2 +1,2 @@
-# WebTasar-m2023
+# WebTasarım2023
 Web tasarım dersi
